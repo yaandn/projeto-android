@@ -195,7 +195,7 @@ iframe {
 
 aside {
     background-color: #C5EBD6;
-    width: 90%;
+    width: 100%;
     border-radius: 15px;
     margin-left: auto;
     margin-right: auto;
@@ -228,12 +228,15 @@ aside > p > a {
 
  aside > ul  {
     margin: 15px 50px 15px 50px;
+   
     columns: 2;
-    list-style-position: inside;
+    
+    list-style-position:inside;
     list-style: '\2714\00A0\00A0'  ;
 
 
 }
+
 
 p.ultimo {
     margin: 15px 0px 15px 0px;
