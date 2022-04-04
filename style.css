@@ -228,6 +228,7 @@ aside > p > a {
 
  aside > ul  {
     margin: 15px 50px 15px 50px;
+    min-width: 90%;
     columns: 2;
     column-gap:60px;
     list-style-position:inside;
