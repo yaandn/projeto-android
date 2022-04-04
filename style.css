@@ -229,7 +229,7 @@ aside > p > a {
  aside > ul  {
     margin: 15px 50px 15px 50px;
     columns: 2;
-    column-gap: normal;
+    column-gap:60px;
     list-style-position:inside;
     list-style: '\2714\00A0\00A0'  ;
 
