@@ -164,6 +164,7 @@ main img.pequena {
 
 div {
     background-color:#1A5C38 ;
+    height: 300px;
     max-width: 800px;
     margin: 0px -20px 30px -20px;
     padding: 20px; 
@@ -177,6 +178,7 @@ div {
 iframe {
     position: relative;
     display: block;
+    height: 280px;
     min-width: 320px;
     max-width: 800px;
     margin: auto;
